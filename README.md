@@ -1,8 +1,5 @@
 # 📦 Inventory Management Analysis  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Kandan-S/Inventory-Analysis?color=blue&label=Repo%20Size)  
-![GitHub stars](https://img.shields.io/github/stars/Kandan-S/Inventory-Analysis?style=social)  
-![GitHub last commit](https://img.shields.io/github/last-commit/Kandan-S/Inventory-Analysis?color=green)  
 
 ## 🚀 Project Overview  
 This project analyzes **real-world inventory data** from **Home and Needs Supermarket** to uncover key trends in **department-wise profits, distributor performance, inventory status, and reorder patterns**. The dataset, sourced from **legacy software (2018-2024)**, consists of **24,912 rows and 59 columns**, refined to **10,684 rows and 15 columns** after preprocessing.  
@@ -63,12 +60,6 @@ Effective inventory management is crucial for retail businesses to minimize loss
 This analysis provides **actionable insights** to optimize inventory strategies, reduce inactive stock, and improve supply chain efficiency. By leveraging **real-world data from Home and Needs Supermarket**, this project delivers valuable business intelligence to enhance sales performance, streamline procurement, and maximize profitability.  
 
 ---
-
-## 📊 Live Dashboard  
-🚀 Check out the **interactive Power BI dashboard** for in-depth insights!  
-
-🔗 **[View Dashboard](#)** (Update this with the actual link)  
-
 ### 📢 Feel free to ⭐ this repo if you find it useful!  
 
 ![Thanks for Visiting](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
